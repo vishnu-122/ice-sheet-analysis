@@ -32,7 +32,7 @@ This project analyzes data collected from ice sheets on Planet Clara. The progra
 - Add a graphical user interface for better data visualization.
 
 ## Author
-Vishnu M Marwadi [Optional: Add contact information or GitHub profile link]
+Vishnu M Marwadi 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
